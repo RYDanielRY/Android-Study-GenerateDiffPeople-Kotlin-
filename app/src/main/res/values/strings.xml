@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="generate">Generate</string>
+
+    <string name="Name">Name</string>
+    <string name="Age">Age</string>
+
+    <string name="NameGirl">Chloe</string>
+    <string name="AgeGirl">22</string>
+
+    <string name="NameBoy">Daniel</string>
+    <string name="AgeBoy">25</string>
+</resources>
